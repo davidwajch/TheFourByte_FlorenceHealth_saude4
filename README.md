@@ -99,6 +99,8 @@ lib/
 Para visualizar o protótipo interativo das telas no Figma:
 [🎨 Florence Health - Protótipo](https://www.figma.com/proto/UMkHhBXAoX6sc2udSchwzY/The-FourByte---Forence-Health?node-id=144-46&t=nx7RJcVTITyD54ut-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=144%3A46)
 
+As telas também estão disponíveis em PDF: [The FourByte - Telas (Figma).pdf](./The%20FourByte%20-%20Telas%20(Figma).pdf)
+
 ## Licença
 
 Este projeto foi desenvolvido para fins acadêmicos no contexto do Hackathon Saúde 4.0 (2024).

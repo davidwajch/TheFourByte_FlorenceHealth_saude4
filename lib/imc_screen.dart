@@ -42,13 +42,13 @@ class IMCScreen extends StatelessWidget {
 
   Color _getColorForBMI(double bmi) {
     if (bmi < 18.5) {
-      return Colors.yellow; 
+      return Colors.yellow;
     } else if (bmi >= 18.5 && bmi < 24.9) {
-      return Colors.green; 
+      return Colors.green;
     } else if (bmi >= 24.9 && bmi < 29.9) {
-      return Colors.orange; 
+      return Colors.orange;
     } else {
-      return Colors.red; 
+      return Colors.red;
     }
   }
 

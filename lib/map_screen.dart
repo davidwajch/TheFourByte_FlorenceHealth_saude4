@@ -30,12 +30,12 @@ class MapScreen extends StatelessWidget {
                     ),
                   ),
                 Image.asset(
-                  'assets/image1.png', // Substitua com o caminho da sua primeira imagem
+                  'assets/image1.png',
                   height: imageSize,
                   fit: BoxFit.cover,
                 ),
                 Image.asset(
-                  'assets/image2.png', 
+                  'assets/image2.png',
                   height: imageSize,
                   fit: BoxFit.cover,
                 ),

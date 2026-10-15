@@ -12,14 +12,12 @@ class AuthProvider with ChangeNotifier {
   }
 
   void login() {
-    // Aqui você deve implementar a lógica de login
-    isAuthenticated = true; // Simulação de autenticação
+    isAuthenticated = true;
     notifyListeners();
   }
 
   void signup() {
-    // Aqui você deve implementar a lógica de cadastro
-    isAuthenticated = true; // Simulação de autenticação
+    isAuthenticated = true;
     notifyListeners();
   }
 }
